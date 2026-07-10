@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Siva%20Sankar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full%20Stack%20Developer%20%F0%9F%92%BB;LeetCode%20Enthusiast%20%F0%9F%8E%AF;MERN%20Stack%20Developer%20%E2%9A%A1;System%20Design%20Explorer%20%F0%9F%8C%90;Open%20Source%20Contributor%20%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full%20Stack%20Developer%20%F0%9F%92%BB;LeetCode%20Enthusiast%20%F0%9F%8E%AF;Java%20Developer%20%E2%9A%A1;System%20Design%20Explorer%20%F0%9F%8C%90;Open%20Source%20Contributor%20%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
@@ -78,7 +78,10 @@ const sivasankar = {
 
 #### ⚙️ Backend Power
 <div align="center">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
 </td>
