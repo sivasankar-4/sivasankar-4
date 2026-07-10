@@ -19,12 +19,6 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhjeGk2Z29wY2h2OXRhc3l2OWtzcDJiczJtYTEzaTd2MnloZ2IwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
-
-<table width="100%">
-<tr>
-<td width="55%" valign="middle">
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
