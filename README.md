@@ -21,16 +21,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWhjeGk2Z29wY2h2OXRhc3l2OWtzcDJiczJtYTEzaTd2MnloZ2IwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 
+<table width="100%">
+<tr>
+<td width="55%" valign="middle">
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 ```javascript
-const sivasankar = {
+const akhilesh = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     currentFocus: "JUSTICE AI 🔭",
-    learning: ["java full stack", "open source contribution", "Dsa"],
+    learning: ["MERN Stack", "System Design"],
     interests: ["Problem Solving", "Web Development", "AI/ML"],
-    motto: "Ideas in my head never make me sleep ^_^",
+    motto: "Bugs in my head never make me sleep ^_^",
 
     lifeLoop: function() {
         while(alive) {
@@ -43,12 +47,14 @@ const sivasankar = {
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXI2b2U0cmdreW9vbzlzZ2F1dW53NGR1dGlieDFsaG10YnJ4MDQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViQb3BY5WQNQiQJd90/giphy.gif" width="280" style="border-radius:12px;">
 
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
+</td>
+</tr>
+</table>
   Tech Arsenal
 </h2>
 
