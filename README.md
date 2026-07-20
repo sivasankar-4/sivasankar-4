@@ -48,7 +48,7 @@ const sivasankar = {
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXI2b2U0cmdreW9vbzlzZ2F1dW53NGR1dGlieDFsaG10YnJ4MDQxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ViQb3BY5WQNQiQJd90/giphy.gif" width="280" style="border-radius:12px;">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p4MG9iMzl2aGJ5ODZhN2xqZWsyeTQ0ZDBuczIyNTdnOWI3c3k5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="280" style="border-radius:12px;">
 
 </td>
 </tr>
