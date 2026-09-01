@@ -23,33 +23,6 @@
 <tr>
 <td width="55%" valign="middle">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
-
-```javascript
-const sivasankar = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    currentFocus: "Expense_approval_system",
-    learning: ["java full stack", "open source contribution", "Dsa"],
-    interests: ["Problem Solving", "Web Development", "AI/ML"],
-    motto: "Ideas in my head never make me sleep ^_^",
-
-    lifeLoop: function() {
-        while(alive) {
-            eat();
-            code();
-            solve();
-            repeat();
-        }
-    }
-};
-```
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3p4MG9iMzl2aGJ5ODZhN2xqZWsyeTQ0ZDBuczIyNTdnOWI3c3k5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="280" style="border-radius:12px;">
-
 </td>
 </tr>
 </table>
