@@ -21,9 +21,6 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="middle">
-
-</td>
 </tr>
 </table>
 
