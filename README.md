@@ -89,7 +89,9 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar-4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SivaSankarAttili&theme=github-compact" alt="GitHub Contribution Graph" />
+</p>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sivasankar-4&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
 </div>
 
